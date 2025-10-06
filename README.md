@@ -13,6 +13,8 @@ carpeta de Windows para abrirlo en SACS Precede.
 - Permiso para escribir en C:\Users\<TU_USUARIO>\Desktop\… desde WSL.
 - Python 3.10–3.12 dentro de WSL.
 
+
+```python
 1) Estructura de proyecto sugerida
 ----------------------------------
 ~/Jacket_SACS/
@@ -21,6 +23,7 @@ carpeta de Windows para abrirlo en SACS Precede.
 ├─ venv/                  # entorno virtual de Python
 ├─ build_sacs_inp.py      # script generador del .inp
 └─ requirements.txt
+```python
 
 2) Instalar dependencias en WSL
 -------------------------------
