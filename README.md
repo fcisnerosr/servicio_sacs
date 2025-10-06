@@ -23,7 +23,7 @@ carpeta de Windows para abrirlo en SACS Precede.
 ├─ venv/                  # entorno virtual de Python
 ├─ build_sacs_inp.py      # script generador del .inp
 └─ requirements.txt
-```python
+```
 
 2) Instalar dependencias en WSL
 -------------------------------
